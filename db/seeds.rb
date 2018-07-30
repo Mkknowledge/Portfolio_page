@@ -22,7 +22,7 @@ puts "skill created."
 		subtitle:"Mayur!",
 		body:"gggggg",
 		thumb_image: "http://via.placeholder.com/250x150",
-		main_image: "http://via.placeholder.com/450x750"
+		main_image: "http://via.placeholder.com/750x250"
 		)
 end
 
